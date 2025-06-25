@@ -242,6 +242,7 @@ public class ComponentRegistry {
         register(new ValueRotationMechanic());
         register(new ValueRoundMechanic());
         register(new ValueSetMechanic());
+        register(new VeinMineMechanic());
         register(new WarpLocMechanic());
         register(new WarpMechanic());
         register(new WarpRandomMechanic());
